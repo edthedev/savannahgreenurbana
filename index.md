@@ -17,3 +17,7 @@ Please use <a href="/contact.html">the form</a> to contact the
 <p style="font-size:20px">
 	Welcome to the official homepage of the Savannah Green Urbana Homeowner Association. This site hosts our official documents and is the main avenue for contacting the board. See the tabs at the top of the page.
 </p>
+
+<p style="font-size:20px">
+  For news and announcements please visit our <a href="http://www.facebook.com/SavannahGreenHOA" target="_blank">Facebook</a> page. Don't forget to Like us!
+</p>
