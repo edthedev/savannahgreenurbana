@@ -1,0 +1,257 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, Verdana, Sans-serif;
+  font-size: 12px;
+  color: #38402d;
+  background: #fefefe;
+  margin: 0;
+  padding: 0;
+}
+
+a:link {
+  text-decoration: none;
+  color: #bfbf72;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #777f51;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #a64323;
+}
+
+a:active {
+  text-decoration: underline;
+  color: #bfbf72;
+}
+
+dl {
+  padding: 0;
+  border: 0px;
+  border-style:solid;
+  border-color:#010101;
+}
+dt {
+  margin:0;
+  padding:5px;
+  background:#fff5aa;
+}
+dd {
+  margin:0 0 10px 20px;
+  padding:0 10px 10px 10px;
+  font-size: 120%;
+  background:#fff5aa;
+}
+
+fieldset {
+  margin: 0px;
+  padding: 10px;
+  border: 5px, 5px, 5px, 5px;
+  border-style: solid;
+  border-color: #38402d;
+  background: #fff5aa;
+  clear: both;
+}
+
+fieldset legend {
+  background: #fff5aa;
+}
+
+fieldset label {
+  display: block;
+  float: left;
+  padding-right: 6px;
+  width: 150px;
+  text-align: right;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+fieldset .input-text {
+  width: 300px;
+}
+
+fieldset .explanatory-text {
+  margin-left: 165px;
+  width: 250px;
+}
+
+fieldset textarea {
+  height: 180px;
+}
+
+
+/* ----- pseudo-classes ----- */
+
+.hidden {
+  display: none;
+}
+
+.submit {
+  background:#a64323;
+  padding:0px 6px;
+  border:2px outset #3b6e22;
+  height:24px;
+  line-height:24px;
+  color:#ffffff;
+  font-size:12px;
+  margin-right:10px;
+  display:block;
+  text-decoration:none;
+}
+.submit:hover {
+  background:#38402d;
+}
+.submit:active {
+  border:2px inset #3b6e22;
+}
+
+.subtle a {
+  text-decoration: none;
+  color: #38402d;
+}
+
+
+/* ----- IDs ----- */
+
+#full-page {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  background: #777f51;
+  width: 100%;
+}
+
+#page-container {
+  margin: 0 auto 0 auto;
+  padding: 0;
+  width:600px;
+  min-height: 1200px;
+}
+
+#letterhead {
+  position: relative;
+  margin: 5px auto 5px auto;
+  border: 5px 5px 5px 5px;
+  padding: 0;
+  background: #bfbf72;
+  border-style:solid;
+  border-color:#38402d;
+}
+
+#logo img {
+  float: left;
+  width: 120px;
+  height: 120px;
+}
+
+
+#content {
+  position: relative;
+  margin: 0 auto 0 auto;
+  border: 5px 5px 5px 5px;
+  padding: 0;
+  background: #010101;
+  border-style:solid;
+  border-color:#38402d;
+  clear: both;
+}
+
+#header {
+  margin: 0 auto 0 auto;
+  border: 0;
+  padding: 0;
+
+  float:left;
+  width:100%;
+  background:#38402d;
+  font-size:150%;
+  line-height:normal;
+}
+
+#header ul {
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+#header li {
+  float:left;
+  background:url("transparent--1x1.png") no-repeat right top;
+  background:#a64323;
+  margin:5px 5px 0 5px;
+  padding:0;
+}
+#header a {
+  display:block;
+  color:#fefefe;
+  text-decoration: none;
+  margin:0;
+  padding:5px;
+}
+#header a:link {
+}
+#header a:visited {
+}
+#header a:hover {
+  background:#38402d;
+}
+#header a:active {
+  background:#fefefe;
+  color:#a64323;
+}
+#header #current {
+  background:#fefefe;
+}
+#header #current a {
+  background:#fefefe;
+  color:#000000;
+}
+
+#currentContent {
+  position: relative;
+  margin: 0 auto 0 auto;
+  border: 0px;
+  padding: 10px 30px;
+  background: #fefefe;
+  clear: both;
+}
+
+#copyright {
+  margin: 0 auto 0 auto;
+  font-size:90%;
+  color: white
+}
+#copyright p {
+  float:right;
+}
+
+
+/* NOTES: */
+/* content padding border (outline?) margin */
+/* top right bottom left */
+/* link visited hover active */
+/* 1px, not 1 px */
+/* missing a semicolon? */
+
+
+/* Theme */
+/* cactus flower */ 
+/* http://kuler.adobe.com/#themeID/1158739 */
+/* #38402D #777F51 #BFBF72 #FFF5AA #A64323 */
+
+
+/* Other Possible Themes */
+/* christmas star */ /* #D9B500 #FFED9C #BFCC85 #748F74 #454545 */
+/* accidental voyager */ /* #0A2B1C #6E6800 #AEB86C #FFB759 #4C2400 */
+/* travel worn greetings */ /* #313428 #737F47 #BFBF76 #FFF9AE #5A372D */
+/* the tree for me */ /* #20261D #5C7339 #CBCC60 #FFF591 #59291E */
+/* pocahontas */ /* #E5E19C #A3BF97 #67998C #414C4C #26211E */
+/* 0.7% */ /* #526851 #3A5044 #273542 #CBD8A2 #B8BD83 */
+
