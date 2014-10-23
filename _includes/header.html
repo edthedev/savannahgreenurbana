@@ -2,7 +2,7 @@
 <head>
   <title>Savannah Green Urbana</title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-  <link rel="stylesheet" href="static/style.css" type="text/css">
+  <link rel="stylesheet" href="{{ site.url }}/static/style.css" type="text/css">
 </head>
 <body>
 <div id="full-page">
@@ -10,11 +10,11 @@
 
   <div id="letterhead">
     <div id="logo">
-      <img src="/static/transparent--1x1.png">
+		<img src="{{ site.url }}/static/transparent--1x1.png">
     </div>
     <h1>
       <div class="subtle">
-      <a href="contact.html">Savannah Green Homeowners' Association of Urbana</a>
+		  <a href="{{ site.url }}/contact.html">Savannah Green Homeowners' Association of Urbana</a>
       </div>
     </h1>
     <p>
@@ -28,16 +28,16 @@
     <div id="header">
       <ul>
 		  <li {% if page.url == '/index.html' %} id="current" {% endif %}>
-          <a href="index.html">Home</a>
+		  <a href="{{ site.url }}/index.html">Home</a>
         </li>
 		<li {% if page.url == '/about.html' %} id="current" {% endif %}>
-          <a href="about.html">About</a>
+		<a href="{{ site.url }}/about.html">About</a>
         </li>
 		<li {% if page.url == '/contact.html' %} id="current" {% endif %}>
-          <a href="contact.html">Contact</a>
+		<a href="{{ site.url }}/contact.html">Contact</a>
         </li>
 		<li {% if page.url == '/documents.html' %} id="current" {% endif %}>
-          <a href="documents.html">Documents</a>
+		<a href="{{ site.url }}/documents.html">Documents</a>
         </li>
       </ul>
     </div>
