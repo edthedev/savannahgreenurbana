@@ -14,8 +14,8 @@ layout: default
   against some of the unfortunate truths of the internet.
 </p>
 
-<form method="POST" action="mailto:edthedev@gmail.com" enctype="text/plain">
-<!-- <form method="POST" action="mailto:secretary@savannahgreenurbana.org">
+<form method="POST" action="mailto:edthedev@gmail.com?subject=Savannah Green HOA Contact Form Request" enctype="text/plain">
+<!-- <form method="POST" action="mailto:secretary@savannahgreenurbana.org?subject=Savannah Green HOA Contact Form Request">
 -->
   <fieldset>
   <legend>
@@ -41,14 +41,12 @@ layout: default
     </SELECT>
   </p>
 
-
   <p>
     <label for="name">
       Your Name
     </label>
     <input class="input-text" type="text" name="name" />
   </p>
-
 
   <p>
     <label for="email">
@@ -57,22 +55,12 @@ layout: default
     <input class="input-text" type="text" name="email" />
   </p>
 
-
-  <p>
-    <label for="email2">
-    Confirm Email Address
-    </label>
-    <input class="input-text" type="text" name="email2" />
-  </p>
-
-
   <p>
     <label for="property">
     Property Address
     </label>
     <input class="input-text" type="text" name="property" />
   </p>
-
 
   <p class="explanatory-text">
     (The street name will likely be one of the following:
@@ -83,34 +71,12 @@ layout: default
     Abercorn Street.)
   </p>
 
-
   <p>
     <label for="message">
     Your Message
     </label>
     <textarea class="input-text" name="message"></textarea>
   </p>
-
-  <p>
-    <label for="anti-spam">
-    2 + 5 =
-    </label>
-    <input class="input-text" type="text" name="anti-spam" />
-  </p>
-
-  <p class="explanatory-text">
-    (Please help prevent spam by answering the simple math problem.)
-  </p>
-
-  <p class=hidden>
-    <label for="anti-spam-answer">
-    Anti-Spam Answer
-    </label>
-    <select size="1" name="anti-spam-answer">
-      <option selected value="7">7</option>
-    </select>
-  </p>
-
 
   <p>
     <input class="submit" type="submit" value="Send the Message">
