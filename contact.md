@@ -18,9 +18,11 @@ layout: default
 <!-- <form method="POST" action="mailto:secretary@savannahgreenurbana.org?subject=Savannah Green HOA Contact Form Request">
 -->
   <fieldset>
+<!--
   <legend>
-   All fields are required (only the math and email address fields are strict, though)
+   All fields are required.
   </legend>
+-->
 
   <p>
     <label for="request-type">
