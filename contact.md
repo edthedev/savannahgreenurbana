@@ -14,12 +14,13 @@ layout: default
   against some of the unfortunate truths of the internet.
 </p>
 
-<form method="POST" action="http://savannahgreenurbana.org/cgi/contact.pl">
+<form method="POST" action="mailto:edthedev@gmail.com" enctype="text/plain">
+<!-- <form method="POST" action="mailto:secretary@savannahgreenurbana.org">
+-->
   <fieldset>
   <legend>
    All fields are required (only the math and email address fields are strict, though)
   </legend>
-
 
   <p>
     <label for="request-type">
@@ -87,9 +88,8 @@ layout: default
     <label for="message">
     Your Message
     </label>
-    <textarea class="input-text", name="message"></textarea>
+    <textarea class="input-text" name="message"></textarea>
   </p>
-
 
   <p>
     <label for="anti-spam">
@@ -98,11 +98,9 @@ layout: default
     <input class="input-text" type="text" name="anti-spam" />
   </p>
 
-
   <p class="explanatory-text">
     (Please help prevent spam by answering the simple math problem.)
   </p>
-
 
   <p class=hidden>
     <label for="anti-spam-answer">
