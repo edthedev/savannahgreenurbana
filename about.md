@@ -16,25 +16,6 @@ layout: default
   Please note that the members of the Board are unpaid volunteers.
 </p>
 
-
-Vice President should be changed to:
-
-Secretary 
-
-Treasurer
-Marie Davis
--Elected in 2014 to first term
-
-At Large
-Vacant Position
-
-At Large 
-Vacant Position
-
-At Large
-Vacant Positon
-
-
 <dl>
   <dt>
     President
@@ -72,7 +53,19 @@ Vacant Positon
   <dd>
     Vacant Position
   </dd>
+
   <dt>
-    Vacant Position
+    At-Large
   </dt>
+  <dd>
+    Vacant Position
+  </dd>
+
+  <dt>
+    At-Large
+  </dt>
+  <dd>
+    Vacant Position
+  </dd>
+
 </dl>
