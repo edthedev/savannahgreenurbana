@@ -3,7 +3,7 @@ title: Contact
 layout: default
 ---
 
-<h2>For closing documents</h2>
+<h2>For closing documents / dues inquiries</h2>
 <p>For closing requests please write to <a href="mailto:support@hoasteward.com">support@hoasteward.com</a> or complete the form at <a href="http://hoasteward.com/closing">hoasteward.com/closing</a><p>
 
 <h2>To contact the Board of Directors use the form below</h2>
@@ -28,15 +28,20 @@ layout: default
     </label>
     <SELECT size="1" name="request-type">
 
+<!--
       <OPTGROUP label="To the President">
+	  -->
       <OPTION selected value="general">General Information</OPTION>
       <OPTION value="construction">Construction Approval</OPTION>
       <OPTION value="complaint">Complaint</OPTION>
+<!--
       </OPTGROUP>
-
+	  -->
+<!--
       <OPTGROUP label="To the Secretary">
       <OPTION value="dues">Dues Status Request</OPTION>
       </OPTGROUP>
+	  -->
 
     </SELECT>
   </p>
