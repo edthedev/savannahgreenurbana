@@ -11,3 +11,7 @@ To serve the local copy::
 	jekyll serve
 
 Then visit http://0.0.0.0:4000/
+
+Soon, hoa.edthedev.com should also work...
+	- Using an A record, since it will ultimately be an apex domain.
+
