@@ -5,3 +5,9 @@ http://edthedev.github.io/savannahgreenurbana
 
 More on Jekyll:
 https://www.andrewmunsell.com/tutorials/jekyll-by-example/tutorial
+
+To serve the local copy::
+
+	jekyll serve
+
+Then visit http://0.0.0.0:4000/
