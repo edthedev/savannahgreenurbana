@@ -15,20 +15,42 @@ layout: default
 <p>
   Please note that the members of the Board are unpaid volunteers.
 </p>
+
+
+Vice President should be changed to:
+
+Secretary 
+
+Treasurer
+Marie Davis
+-Elected in 2014 to first term
+
+At Large
+Vacant Position
+
+At Large 
+Vacant Position
+
+At Large
+Vacant Positon
+
+
 <dl>
   <dt>
     President
   </dt>
   <dd>
-    Steve Cosper
+	Whitney Akhtar 
     <br />
-    - elected in 2010 to second term
+	- Elected in 2013 to first term (previously served a term as Secretary)
   </dd>
   <dt>
     Vice President
   </dt>
   <dd>
-    Vacant Position
+	Adam Friederich
+    <br />
+	-Elected in 2014 to first term
   </dd>
   <dt>
     Secretary
@@ -40,28 +62,17 @@ layout: default
     Treasurer
   </dt>
   <dd>
-    Khalyn Avery
+	Marie Davis
     <br />
-    - elected in 2010 to first term
+	- Elected in 2014 to first term
   </dd>
   <dt>
     At-Large
   </dt>
   <dd>
-    Whitney Akhtar
-    <br />
-    - elected in 2011 to first term
+    Vacant Position
   </dd>
   <dt>
     Vacant Position
   </dt>
-  <dd>
-    For term starting 2011
-  </dd>
-  <dt>
-    Vacant Position
-  </dt>
-  <dd>
-    For term starting 2011
-  </dd>
 </dl>
