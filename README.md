@@ -3,7 +3,7 @@ This will be a README. That will be nice.
 GitHub pages
 -------------
 
-Web stuff appears at:
+Raw web stuff appears at:
 http://edthedev.github.io/savannahgreenurbana
 
 Custom Domain will be:
