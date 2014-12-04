@@ -9,7 +9,6 @@ http://edthedev.github.io/savannahgreenurbana
 Custom Domain will be:
 	savannah-green.org
 
-TODO:
 https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/
 
 With your DNS provider, create A records that resolve to the following IP addresses::
@@ -23,6 +22,18 @@ Then confirm via dig::
 	;example.com
 	example.com.   73  IN  A 192.30.252.153
 	example.com.   73  IN  A 192.30.252.154
+
+	>dig savannah-green.org +nostats +nocomments +nocmd
+
+; <<>> DiG 9.8.3-P1 <<>> savannah-green.org +nostats +nocomments +nocmd
+;; global options: +cmd
+;savannah-green.org.		IN	A
+savannah-green.org.	14400	IN	A	192.30.252.153
+savannah-green.org.	14400	IN	A	192.30.252.154
+
+Final bit
+----------
+Setup META redirect from old website. See notes file.
 
 Jekyll
 -------
