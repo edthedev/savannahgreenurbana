@@ -14,9 +14,9 @@ layout: default
   against some of the unfortunate truths of the internet.
 </p>
 
-<form method="POST" action="mailto:edthedev@gmail.com?subject=Savannah Green HOA Contact Form Request" enctype="text/plain">
-<!-- <form method="POST" action="mailto:secretary@savannahgreenurbana.org?subject=Savannah Green HOA Contact Form Request">
+<!-- <form method="POST" action="mailto:edthedev@gmail.com?subject=Savannah Green HOA Contact Form Request" enctype="text/plain">
 -->
+<form method="POST" action="mailto:secretary@savannahgreenurbana.org?subject=Savannah Green HOA Contact Form Request" enctype="text/plain">
   <fieldset>
   <legend>
    All fields are required.
