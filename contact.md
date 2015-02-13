@@ -4,7 +4,7 @@ layout: default
 ---
 
 <h2>For closing documents / dues inquiries</h2>
-<p>For closing requests please write to <a href="mailto:support@hoasteward.com">support@hoasteward.com</a> or complete the form at <a href="http://hoasteward.com/closing">hoasteward.com/closing</a><p>
+<p>For closing requests please email <a href="mailto:info@condomanagementpeople.com">info@condomanagementpeople.com</a> with your Name, Address, and closing date. If you have questions about your dues balance, please email <a href="mailto:info@condomanagementpeople.com">info@condomanagementpeople.com</a> or call <a href="tel:217-355-6000">217-355-6000</a>.</p>
 
 <h2>To contact the Board of Directors use the form below</h2>
 
