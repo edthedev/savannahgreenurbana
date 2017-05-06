@@ -21,51 +21,36 @@ layout: default
     President
   </dt>
   <dd>
-	Whitney Akhtar 
-    <br />
-	- Elected in 2013 to first term (previously served a term as Secretary)
+	Justin Klug
   </dd>
   <dt>
     Vice President
   </dt>
   <dd>
-	Adam Friederich
-    <br />
-	-Elected in 2014 to first term
+	Allan Kennedy
   </dd>
   <dt>
     Secretary
   </dt>
   <dd>
-    Vacant Position
+	Christa Kennedy
   </dd>
   <dt>
     Treasurer
   </dt>
   <dd>
-	Marie Davis
-    <br />
-	- Elected in 2014 to first term
+	Mark Olson
   </dd>
   <dt>
     At-Large
   </dt>
   <dd>
-    Vacant Position
+	Stephen Cosper
   </dd>
-
   <dt>
     At-Large
   </dt>
   <dd>
-    Vacant Position
+	Robin Farkas
   </dd>
-
-  <dt>
-    At-Large
-  </dt>
-  <dd>
-    Vacant Position
-  </dd>
-
 </dl>
